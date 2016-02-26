@@ -219,7 +219,7 @@ function create_config( )
     "invite_xy",
     "spm"
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {67559249},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -290,11 +290,6 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-
-Developer: @behroozYaghi
-توسعه دهنده
-
-channel: @nod32team
 
 ]]
   }
