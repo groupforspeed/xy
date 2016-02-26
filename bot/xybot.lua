@@ -219,7 +219,7 @@ function create_config( )
     "invite_xy",
     "spm"
     },
-    sudo_users = {67559249},--Sudo users
+    sudo_users = {141094301},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
